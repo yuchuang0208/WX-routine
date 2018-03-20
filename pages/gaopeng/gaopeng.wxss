@@ -1,0 +1,5 @@
+/* pages/gaopeng/gaopeng.wxss */
+.peng image{
+  display: block;
+  margin: 0 auto;
+}

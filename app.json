@@ -1,0 +1,42 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/912/912",
+    "pages/about/about",
+    "pages/yuchuang/yuchuang",
+    "pages/lizibo/lizibo",
+    "pages/gaopeng/gaopeng"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "WeChat-yc",
+    "navigationBarTextStyle":"#000"
+  },
+  "tabBar": {
+    "color": "green",
+    "selectedColor": "blue",
+    "backgroundColor": "#eee",
+    "borderStyle": "#000",
+    "position": "bottom",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath": "image/index.png",
+      "selectedIconPath": "image/index_act.png"
+    },
+    {
+      "pagePath": "pages/912/912",
+      "text": "912",
+      "iconPath": "image/sushefengguang.png",
+      "selectedIconPath": "image/sushefengguang_act.png"
+    },
+    {
+      "pagePath": "pages/about/about",
+      "text": "关于我们",
+      "iconPath": "image/about.png",
+      "selectedIconPath": "image/about_act.png"
+    }
+    ]
+  }
+}

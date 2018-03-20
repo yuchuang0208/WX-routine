@@ -1,0 +1,5 @@
+/* pages/lizibo/lizibo.wxss */
+.zibo image{
+  display: block;
+  margin: 0 auto;
+}

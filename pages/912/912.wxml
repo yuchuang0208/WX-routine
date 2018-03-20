@@ -1,0 +1,11 @@
+<!--pages/912/912.wxml-->
+<!-- <view class='img'>
+  <image mode='aspectFit' src='../../image/peng.png' bindtap='previewImg'></image>
+  <image mode='aspectFit' src='../../image/yuchuang.jpg'></image>
+  <image mode='aspectFit' src='../../image/zibo.png'></image>
+</view> -->
+<view class='imgList'>      
+  <view class='imgList-li' wx:for='{{imgArr}}' wx:key="*this">
+    <image class='img' src='{{item}}' data-index='{{index}}' bindtap='previewImg'></image>
+  </view>
+</view>

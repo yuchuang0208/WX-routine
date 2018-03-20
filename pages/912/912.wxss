@@ -1,0 +1,24 @@
+/* pages/912/912.wxss */
+/* .img image{
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+} */
+
+.imgList{
+  width: 100%;
+}
+.imgList .imgList-li{
+  width: 100%;
+  border-bottom: 1px solid red;
+}
+.imgList .imgList-li:last-child{
+  border-bottom: none;
+}
+.imgList .imgList-li .img{
+
+  /* width: 400rpx;
+  height: 400rpx; */
+   display: block; 
+  margin: 0 auto;
+}

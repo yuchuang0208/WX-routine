@@ -1,0 +1,4 @@
+<!--pages/yuchuang/yuchuang.wxml-->
+<view class='yuchuang'>
+  <image mode='aspectFit' src='../../image/yuchuang.jpg'></image>
+</view>

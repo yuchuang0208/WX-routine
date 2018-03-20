@@ -1,0 +1,4 @@
+<!--pages/lizibo/lizibo.wxml-->
+<view class='zibo'>
+  <image mode='aspectFit' src='../../image/zibo.png'></image>
+</view>

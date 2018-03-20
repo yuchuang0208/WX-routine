@@ -1,0 +1,4 @@
+<!--pages/gaopeng/gaopeng.wxml-->
+<view class='peng'>
+  <image mode='aspectFit' src='../../image/peng.png'></image>
+</view>

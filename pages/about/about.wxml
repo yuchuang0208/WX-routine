@@ -1,0 +1,14 @@
+<!--pages/about/about.wxml-->
+<view bindtap="chuang">
+  <button type='primary'>于闯</button>
+</view>
+<view bindtap='zibo'>
+  <button type='primary'>李子博</button>
+</view>
+<view bindtap='peng'>
+  <button type='primary'>高鹏</button>
+</view>
+
+
+
+

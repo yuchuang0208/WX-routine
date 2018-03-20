@@ -1,0 +1,5 @@
+/* pages/yuchuang/yuchuang.wxss */
+.yuchuang image{
+  display: block;
+  margin: 0 auto;
+}
